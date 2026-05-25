@@ -33,8 +33,6 @@ with YOLOv8, accepted for oral presentation at **IEEE CICN 2025**.
 | [🗺️ LA Crime Analytics](YOUR_REPO_LINK) | Deep Embedded Clustering on 850K records with risk-aware route optimization | Python, Dijkstra's, DEC |
 | [🎵 Emotion Music Recommender](YOUR_REPO_LINK) | Real-time facial expression detection → personalized music recommendations | MediaPipe, OpenCV, Streamlit |
 
-> 📌 *Replace `YOUR_REPO_LINK` with actual repository URLs*
-
 ---
 
 ## 🛠️ Tech Stack
@@ -88,7 +86,7 @@ with YOLOv8, accepted for oral presentation at **IEEE CICN 2025**.
 
 - **Brain Tumor Classification Using YOLOv8** — Accepted for oral presentation at *17th IEEE International Conference on Computational Intelligence and Communication Networks (CICN 2025)*
 
----
+<!---
 
 ## 📊 GitHub Stats
 
@@ -97,7 +95,7 @@ with YOLOv8, accepted for oral presentation at **IEEE CICN 2025**.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishanth2012&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0e1a" alt="Top Languages" height="165" />
 </p>
 
----
+--->
 
 ## 📬 Let's Connect
 
