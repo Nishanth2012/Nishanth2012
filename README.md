@@ -78,11 +78,9 @@ with YOLOv8, accepted for oral presentation at **IEEE CICN 2025**.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0e1a" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0e1a" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nishanth2012&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0e1a" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishanth2012&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0e1a" alt="Top Languages" height="165" />
 </p>
-
-> 📌 *Replace `YOUR_USERNAME` with your GitHub username*
 
 ---
 
