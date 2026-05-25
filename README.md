@@ -1,6 +1,6 @@
 # Hi, I'm Nishanth Gajjala 👋
 
-**Research Data Analyst @ ASU Knowledge Enterprise** · MS Data Science & Analytics · Arizona State University (4.0 GPA)
+**Research Data Analyst @ ASU Complex Adaptive Systems Initiative** · MS Data Science & Analytics · Arizona State University (4.0 GPA)
 
 I build data pipelines, predictive models, and interactive
 visualizations that turn complex datasets into actionable
