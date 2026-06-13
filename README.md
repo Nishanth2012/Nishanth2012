@@ -27,7 +27,7 @@ with YOLOv8, accepted for oral presentation at **IEEE CICN 2025**.
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [🌍 Space Mission Analytics]([YOUR_REPO_LINK](https://github.com/Nishanth2012/space-missions)) | Scrollytelling platform analyzing 4,000+ space launches with 3D globe & Sankey diagrams | Python, D3.js, ETL |
+| [🌍 Space Mission Analytics]((https://github.com/Nishanth2012/space-missions)) | Scrollytelling platform analyzing 4,000+ space launches with 3D globe & Sankey diagrams | Python, D3.js, ETL |
 | [🧠 Brain Tumor Detection](YOUR_REPO_LINK) | YOLOv8 deep learning pipeline — 94% precision, 0.89 mAP · IEEE CICN 2025 | YOLOv8, OpenCV, Roboflow |
 | [📊 Mass Shooting Severity Analysis](YOUR_REPO_LINK) | Gradient Boosting model (89% accuracy, AUC: 0.91) with ARIMA forecasting & Tableau dashboards | Scikit-learn, Tableau |
 | [🗺️ LA Crime Analytics](YOUR_REPO_LINK) | Deep Embedded Clustering on 850K records with risk-aware route optimization | Python, Dijkstra's, DEC |
